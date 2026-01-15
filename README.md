@@ -94,7 +94,7 @@ The executable is located at `.\build\Release\UnrealLogsReader.exe`
 
 ## Linux Setup
 
-These instructions cover Arch Linux, Debian/Ubuntu, and Fedora. Other distributions may require similar packages.
+These instructions cover Arch Linux and Debian/Ubuntu. Other distributions may require similar packages.
 
 ### Step 1: Install Build Tools and CMake
 
